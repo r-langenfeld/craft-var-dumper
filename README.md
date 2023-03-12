@@ -1,4 +1,4 @@
-# Craft-Var-Dumper plugin for Craft CMS 3.x
+# Craft-Var-Dumper plugin for Craft CMS 4.x
 
 Activates the Symfony VarDumper in Twig.
 The VarDumper component provides mechanisms for extracting the state out of any PHP variables.
